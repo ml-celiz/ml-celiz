@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola! Soy estudiante avanzada de Ingeniería en Sistemas de Información en la UTN F.R.Ro (Rosario, Santa Fe, Argentina)✨
+Hola! Soy estudiante avanzada de Ingeniería en Sistemas de Información en la UTN F.R.Ro (Rosario, Santa Fe, Argentina)✨  
 Me apasiona el mundo de los datos, la investigación y el aprendizaje constante.
 
 🔹 Autodidacta de naturaleza, siempre estoy explorando nuevas herramientas, tecnologías y metodologías.  
