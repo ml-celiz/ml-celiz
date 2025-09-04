@@ -1,6 +1,12 @@
 # 💫 About Me:
-Soy estudiante avanzada de Ingeniería en Sistemas de Información en la UTN Facultad Regional Rosario. Actualmente busco iniciar mi carrera profesional, continuar capacitándome y adquirir experiencia en el campo de la tecnología. Me interesa desarrollarme tanto a nivel técnico como personal, integrándome a equipos de trabajo donde pueda aplicar y fortalecer mis conocimientos.
+Hola! Soy estudiante avanzada de Ingeniería en Sistemas de Información en la UTN F.R.Ro (Rosario, Santa Fe, Argentina)✨
+Me apasiona el mundo de los datos, la investigación y el aprendizaje constante.
 
+🔹 Autodidacta de naturaleza, siempre estoy explorando nuevas herramientas, tecnologías y metodologías.
+🔹 Me interesa especialmente la Ciencia de Datos, desde el análisis y visualización hasta la construcción de soluciones que generen impacto real.
+🔹 Disfruto trabajar en equipo, compartir ideas y crecer con cada proyecto.
+
+💡 Creo que la mejor forma de avanzar es aprender, crear y nunca dejar de investigar.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ml-celiz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marialuzceliz888@gmail.com) 
