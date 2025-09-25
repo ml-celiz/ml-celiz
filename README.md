@@ -3,7 +3,7 @@ Hola! Soy estudiante avanzada de Ingeniería en Sistemas de Información en la U
 Me apasiona el mundo de los datos, la investigación y el aprendizaje constante.
 
 🔹 Autodidacta de naturaleza, siempre estoy explorando nuevas herramientas, tecnologías y metodologías.  
-🔹 Me interesa especialmente la Ciencia de Datos, desde el análisis y visualización hasta la construcción de soluciones que generen impacto real.  
+🔹 Me interesa especialmente la Ciencia de Datos, desde el análisis, visualización y el aprendizaje automático hasta la construcción de soluciones que generen impacto real.  
 🔹 Disfruto trabajar en equipo, compartir ideas y crecer con cada proyecto.  
 
 💡 Creo que la mejor forma de avanzar es aprender, crear y nunca dejar de investigar.
